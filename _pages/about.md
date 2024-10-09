@@ -13,7 +13,7 @@ Prior to joining PNNL, I completed a two-year postdoctoral fellowship at [CERL g
 
 I hold a Ph.D. in Civil and Environmental Engineering (Structural Engineering) from the University of Louisville, advised by [Prof. Young Hoon Kim](https://engineering.louisville.edu/faculty/young-h-kim/). My dissertation focused on integrating data-driven modal analysis with Bayesian inference for hybrid structural health monitoring. I also hold a Master degree in Bridge Engineering from Chongqing Jiaotong University and a Bachelor degree from Xihua University.
 
-If you want to work with me as a collaborator, instructor, or public speaker, please feel free to contact me: patrickjice@gmail.com
+<p><strong>If you want to work with me as a collaborator, instructor, or public speaker, please feel free to contact me: <a href="mailto:patrickjice@gmail.com">patrickjice@gmail.com</a>.</strong></p>
 
 Research Interests
 ======
